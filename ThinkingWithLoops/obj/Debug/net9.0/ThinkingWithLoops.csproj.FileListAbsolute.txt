@@ -1,0 +1,14 @@
+C:\Code\ThinkingWithLoops\bin\Debug\net9.0\ThinkingWithLoops.exe
+C:\Code\ThinkingWithLoops\bin\Debug\net9.0\ThinkingWithLoops.deps.json
+C:\Code\ThinkingWithLoops\bin\Debug\net9.0\ThinkingWithLoops.runtimeconfig.json
+C:\Code\ThinkingWithLoops\bin\Debug\net9.0\ThinkingWithLoops.dll
+C:\Code\ThinkingWithLoops\bin\Debug\net9.0\ThinkingWithLoops.pdb
+C:\Code\ThinkingWithLoops\obj\Debug\net9.0\ThinkingWithLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\ThinkingWithLoops\obj\Debug\net9.0\ThinkingWithLoops.AssemblyInfoInputs.cache
+C:\Code\ThinkingWithLoops\obj\Debug\net9.0\ThinkingWithLoops.AssemblyInfo.cs
+C:\Code\ThinkingWithLoops\obj\Debug\net9.0\ThinkingWithLoops.csproj.CoreCompileInputs.cache
+C:\Code\ThinkingWithLoops\obj\Debug\net9.0\ThinkingWithLoops.dll
+C:\Code\ThinkingWithLoops\obj\Debug\net9.0\refint\ThinkingWithLoops.dll
+C:\Code\ThinkingWithLoops\obj\Debug\net9.0\ThinkingWithLoops.pdb
+C:\Code\ThinkingWithLoops\obj\Debug\net9.0\ThinkingWithLoops.genruntimeconfig.cache
+C:\Code\ThinkingWithLoops\obj\Debug\net9.0\ref\ThinkingWithLoops.dll

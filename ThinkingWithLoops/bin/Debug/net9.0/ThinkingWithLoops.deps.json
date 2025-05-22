@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ThinkingWithLoops/1.0.0": {
+        "runtime": {
+          "ThinkingWithLoops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThinkingWithLoops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
