@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\FizzBuzz\\FizzBuzz.csproj": {}
+    "C:\\Code\\Exercises\\FizzBuzz\\FizzBuzz.csproj": {}
   },
   "projects": {
-    "C:\\Code\\FizzBuzz\\FizzBuzz.csproj": {
+    "C:\\Code\\Exercises\\FizzBuzz\\FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\FizzBuzz\\FizzBuzz.csproj",
+        "projectUniqueName": "C:\\Code\\Exercises\\FizzBuzz\\FizzBuzz.csproj",
         "projectName": "FizzBuzz",
-        "projectPath": "C:\\Code\\FizzBuzz\\FizzBuzz.csproj",
+        "projectPath": "C:\\Code\\Exercises\\FizzBuzz\\FizzBuzz.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\FizzBuzz\\obj\\",
+        "outputPath": "C:\\Code\\Exercises\\FizzBuzz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

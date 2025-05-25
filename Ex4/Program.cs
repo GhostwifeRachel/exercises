@@ -18,13 +18,31 @@ class Program
     {
         Random random = new Random();
 
-        for (int i = 0; i < 10; i++)
+        int goodAnswer = 0;
+        int badAnswer = 0;
+
+        int questions = 1;
+        while (questions <= 10)
         {
             int rngNum1 = random.Next(1, 11);
             int rngNum2 = random.Next(1, 11);
-            Console.Write("{0} x {1} = ", rngNum1, rngNum2);
-            int result = Convert.ToInt32(Console.ReadLine());
-            
+            int rngMultiplicationResult = rngNum1 * rngNum2;
+
+            Console.Write("{0}) {1} x {2} = ", questions, rngNum1, rngNum2);
+            int userResult = Convert.ToInt32(Console.ReadLine());
+            questions++;
+
+            if (userResult == rngMultiplicationResult)
+            {
+                Console.WriteLine("Correct!");
+                goodAnswer++;
+            }
+            else
+            {
+                Console.WriteLine("Incorrect :( The correct answer is {0}.", rngMultiplicationResult);
+                badAnswer++;
+            }
         }
+        Console.WriteLine("\nYou've guessed correctly {0} times :)\nAnd have guessed incorrectly {1} times :(", goodAnswer, badAnswer);
     }
 }

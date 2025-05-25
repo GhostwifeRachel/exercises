@@ -12,3 +12,4 @@ C:\Code\Exercises\Ex3\obj\Debug\net9.0\refint\Ex3.dll
 C:\Code\Exercises\Ex3\obj\Debug\net9.0\Ex3.pdb
 C:\Code\Exercises\Ex3\obj\Debug\net9.0\Ex3.genruntimeconfig.cache
 C:\Code\Exercises\Ex3\obj\Debug\net9.0\ref\Ex3.dll
+C:\Code\Exercises\Ex3\obj\Debug\net9.0\Ex3.sourcelink.json
