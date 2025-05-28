@@ -1,0 +1,15 @@
+C:\Code\Exercises\ThinkingWithMethods\bin\Debug\net9.0\ThinkingWithMethods.exe
+C:\Code\Exercises\ThinkingWithMethods\bin\Debug\net9.0\ThinkingWithMethods.deps.json
+C:\Code\Exercises\ThinkingWithMethods\bin\Debug\net9.0\ThinkingWithMethods.runtimeconfig.json
+C:\Code\Exercises\ThinkingWithMethods\bin\Debug\net9.0\ThinkingWithMethods.dll
+C:\Code\Exercises\ThinkingWithMethods\bin\Debug\net9.0\ThinkingWithMethods.pdb
+C:\Code\Exercises\ThinkingWithMethods\obj\Debug\net9.0\ThinkingWithMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Exercises\ThinkingWithMethods\obj\Debug\net9.0\ThinkingWithMethods.AssemblyInfoInputs.cache
+C:\Code\Exercises\ThinkingWithMethods\obj\Debug\net9.0\ThinkingWithMethods.AssemblyInfo.cs
+C:\Code\Exercises\ThinkingWithMethods\obj\Debug\net9.0\ThinkingWithMethods.csproj.CoreCompileInputs.cache
+C:\Code\Exercises\ThinkingWithMethods\obj\Debug\net9.0\ThinkingWithMethods.sourcelink.json
+C:\Code\Exercises\ThinkingWithMethods\obj\Debug\net9.0\ThinkingWithMethods.dll
+C:\Code\Exercises\ThinkingWithMethods\obj\Debug\net9.0\refint\ThinkingWithMethods.dll
+C:\Code\Exercises\ThinkingWithMethods\obj\Debug\net9.0\ThinkingWithMethods.pdb
+C:\Code\Exercises\ThinkingWithMethods\obj\Debug\net9.0\ThinkingWithMethods.genruntimeconfig.cache
+C:\Code\Exercises\ThinkingWithMethods\obj\Debug\net9.0\ref\ThinkingWithMethods.dll
