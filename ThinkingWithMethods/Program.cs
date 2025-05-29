@@ -2,8 +2,8 @@
 {
     static void Main(string[] args)
     {
-        Greeting("Filip", "Bone");
-        Greeting("Tadeusz", "Maderski");
+        Greeting("Jane", "Doe");
+        Greeting("John", "Doe");
     }
 
     static void Greeting(string fName, string lName)
