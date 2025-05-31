@@ -7,11 +7,6 @@ Show the running total after each operation
 Continue until the user chooses to quit
 Handle division by zero appropriately
 */
-
-//This entire program is an anti DRY hellspawn
-//Dont look at it
-//Gonna add methods to it someday to rid of repetition
-
 using System;
 
 class Program
@@ -21,57 +16,43 @@ class Program
         double result = 0;
         Console.WriteLine("Current result: {0}", result);
         double userNumber;
-        double newResult;
+        double newResult = 0;
 
         bool keepGoing = true;
         while (keepGoing)
         {
-
             Console.Write("Enter operation: ");
-            char operation = Convert.ToChar(Console.ReadLine());
+            char operation = Convert.ToChar(Console.Read());
+            Console.Write("Enter number: ");
+            userNumber = Convert.ToDouble(Console.ReadLine());
+
             switch (operation)
             {
                 case '+':
                     {
-                        Console.Write("Enter number: ");
-                        userNumber = Convert.ToDouble(Console.ReadLine());
                         newResult = result + userNumber;
-                        Console.WriteLine("Current result: {0}", newResult);
-                        result = newResult;
                         break;
                     }
                 case '-':
                     {
-                        Console.Write("Enter number: ");
-                        userNumber = Convert.ToDouble(Console.ReadLine());
                         newResult = result - userNumber;
-                        Console.WriteLine("Current result: {0}", newResult);
-                        result = newResult;
                         break;
                     }
                 case '*':
                     {
-                        Console.Write("Enter number: ");
-                        userNumber = Convert.ToDouble(Console.ReadLine());
                         newResult = result * userNumber;
-                        Console.WriteLine("Current result: {0}", newResult);
-                        result = newResult;
                         break;
                     }
                 case '/':
                     {
-                        Console.Write("Enter number: ");
-                        userNumber = Convert.ToDouble(Console.ReadLine());
                         if (userNumber == 0)
                         {
-                            Console.WriteLine("You cannot divide by 0.");
+                            Console.WriteLine("Illegal operation. Cannot divide by 0.");
                             break;
                         }
                         else
                         {
                             newResult = result / userNumber;
-                            Console.WriteLine("Current result: {0}", newResult);
-                            result = newResult;
                             break;
                         }
                     }
@@ -81,10 +62,12 @@ class Program
                         break;
                     }
             }
+            Console.WriteLine("Current result: {0}", newResult);
+            result = newResult;
         }
     }
 
-    static void OperatorSelection()
+    static void OperationSelection()
     {
         //code      
     }
