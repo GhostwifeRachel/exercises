@@ -1,12 +1,12 @@
 ﻿/*
 Build a calculator that can perform basic operations (+, -, ×, ÷) but also has a "memory" feature. The program should:
-
 Start with a result of 0
 Allow the user to perform operations on the current result
 Show the running total after each operation
 Continue until the user chooses to quit
 Handle division by zero appropriately
 */
+
 using System;
 
 class Program
@@ -65,10 +65,5 @@ class Program
             Console.WriteLine("Current result: {0}", newResult);
             result = newResult;
         }
-    }
-
-    static void OperationSelection()
-    {
-        //code      
     }
 }
