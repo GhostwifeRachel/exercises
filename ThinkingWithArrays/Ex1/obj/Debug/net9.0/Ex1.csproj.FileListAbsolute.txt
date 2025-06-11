@@ -1,0 +1,15 @@
+C:\Code\Exercises\ThinkingWithArrays\Ex1\bin\Debug\net9.0\Ex1.exe
+C:\Code\Exercises\ThinkingWithArrays\Ex1\bin\Debug\net9.0\Ex1.deps.json
+C:\Code\Exercises\ThinkingWithArrays\Ex1\bin\Debug\net9.0\Ex1.runtimeconfig.json
+C:\Code\Exercises\ThinkingWithArrays\Ex1\bin\Debug\net9.0\Ex1.dll
+C:\Code\Exercises\ThinkingWithArrays\Ex1\bin\Debug\net9.0\Ex1.pdb
+C:\Code\Exercises\ThinkingWithArrays\Ex1\obj\Debug\net9.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Exercises\ThinkingWithArrays\Ex1\obj\Debug\net9.0\Ex1.AssemblyInfoInputs.cache
+C:\Code\Exercises\ThinkingWithArrays\Ex1\obj\Debug\net9.0\Ex1.AssemblyInfo.cs
+C:\Code\Exercises\ThinkingWithArrays\Ex1\obj\Debug\net9.0\Ex1.csproj.CoreCompileInputs.cache
+C:\Code\Exercises\ThinkingWithArrays\Ex1\obj\Debug\net9.0\Ex1.sourcelink.json
+C:\Code\Exercises\ThinkingWithArrays\Ex1\obj\Debug\net9.0\Ex1.dll
+C:\Code\Exercises\ThinkingWithArrays\Ex1\obj\Debug\net9.0\refint\Ex1.dll
+C:\Code\Exercises\ThinkingWithArrays\Ex1\obj\Debug\net9.0\Ex1.pdb
+C:\Code\Exercises\ThinkingWithArrays\Ex1\obj\Debug\net9.0\Ex1.genruntimeconfig.cache
+C:\Code\Exercises\ThinkingWithArrays\Ex1\obj\Debug\net9.0\ref\Ex1.dll
